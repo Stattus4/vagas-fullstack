@@ -2,11 +2,11 @@
 
 ## Descrição da Vaga
 
-Estamos à procura de um Programador Full Stack talentoso e altamente motivado para se juntar à nossa equipe. O candidato ideal terá sólida experiência em JavaScript, Java e Python, e estará familiarizado com as tecnologias mais recentes relacionadas a essas linguagens. Também valorizamos conhecimento em cloud computing, especialmente em AWS e Google Cloud, e experiência em arquitetura de microserviços. Se você é apaixonado por desenvolver soluções inovadoras, possui pensamento crítico e gosta de trabalhar em um ambiente colaborativo, essa vaga é para você!
+Estamos à procura de um Programador Full Stack talentoso e altamente motivado para se juntar à nossa equipe. O candidato ideal terá sólida experiência em JavaScript e Python, e estará familiarizado com as tecnologias mais recentes relacionadas a essas linguagens. Também valorizamos conhecimento em cloud computing, especialmente em AWS e Google Cloud, e experiência em arquitetura de microserviços. Se você é apaixonado por desenvolver soluções inovadoras, possui pensamento crítico e gosta de trabalhar em um ambiente colaborativo, essa vaga é para você!
 
 ## Responsabilidades
 
-- Desenvolver, testar e manter aplicações web utilizando JavaScript, Java e Python.
+- Desenvolver, testar e manter aplicações web utilizando JavaScript e Python.
 - Colaborar com equipes de design e back-end para criar interfaces de usuário eficientes e funcionais.
 - Escrever código limpo, modular e escalável, seguindo as melhores práticas de desenvolvimento.
 - Integrar APIs e serviços externos, garantindo a performance e segurança das aplicações.
@@ -18,7 +18,6 @@ Estamos à procura de um Programador Full Stack talentoso e altamente motivado p
 ## Requisitos
 
 - Experiência sólida com JavaScript (incluindo frameworks como React, Angular, Vue.js, NestJS e Next.js).
-- Conhecimento avançado em Java, com experiência no desenvolvimento de aplicações backend utilizando Spring ou Java EE.
 - Proficiência em Python, especialmente com frameworks como Django ou Flask.
 - Familiaridade com bancos de dados relacionais, com ênfase em PostgreSQL, e experiência com bancos de dados não-relacionais (MongoDB, Redis).
 - Experiência com controle de versão utilizando Git e plataformas como GitHub ou GitLab.
@@ -28,11 +27,13 @@ Estamos à procura de um Programador Full Stack talentoso e altamente motivado p
 - Experiência com infraestrutura em nuvem, especialmente AWS (Amazon Web Services); conhecimento em Google Cloud é um diferencial.
 - Capacidade de solucionar problemas complexos de forma eficiente e inovadora.
 - Pensamento crítico e habilidades de análise para tomar decisões informadas e inovadoras.
+- Fundamentos sólidos de Programação Orientada a Objetos (POO).
+- Conhecimento em design systems, como Material Design.
 - Formação em Ciências da Computação, Engenharia de Software ou áreas afins.
-- Fundamentos sólidos de arquitetura de software e princípios de engenharia.
 
 ## Desejável
 
+- Experiência com Java e frameworks como Spring.
 - Experiência com outras linguagens de programação, como TypeScript ou Kotlin.
 - Conhecimento em desenvolvimento mobile (React Native ou Flutter).
 - Experiência com ferramentas de testes automatizados, como Jest, Mocha, JUnit ou PyTest.
