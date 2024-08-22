@@ -1,46 +1,59 @@
-# Vaga de Programador Full Stack
+# Full Stack Developer Position
 
-Estamos à procura de um Programador Full Stack talentoso e altamente motivado para se juntar à nossa equipe. O candidato ideal terá sólida experiência em JavaScript e Python, e estará familiarizado com as tecnologias mais recentes relacionadas a essas linguagens. Também valorizamos conhecimento em cloud computing, especialmente em AWS e Google Cloud, e experiência em arquitetura de microserviços. Se você é apaixonado por desenvolver soluções inovadoras, possui pensamento crítico e gosta de trabalhar em um ambiente colaborativo, essa vaga é para você!
+We are looking for a talented and highly motivated **Full Stack Developer** to join our team. The ideal candidate will have solid experience in **JavaScript** and **Python** and be familiar with the latest technologies related to these languages. We also value knowledge in **cloud computing**, especially in **AWS** and **Google Cloud**, and experience in **microservices architecture**. If you are passionate about developing innovative solutions, possess critical thinking, and enjoy working in a collaborative environment, this position is for you!
 
-## Responsabilidades
+## Responsibilities
 
-- Desenvolver, testar e manter aplicações web utilizando JavaScript e Python.
-- Colaborar com equipes de design e back-end para criar interfaces de usuário eficientes e funcionais.
-- Escrever código limpo, modular e escalável, seguindo as melhores práticas de desenvolvimento.
-- Integrar APIs e serviços externos, garantindo a performance e segurança das aplicações.
-- Aplicar pensamento crítico na análise e solução de problemas técnicos complexos.
-- Participar de revisões de código e contribuir para a melhoria contínua dos processos de desenvolvimento.
-- Manter-se atualizado com as novas tecnologias e tendências da indústria e aplicá-las de forma prática nos projetos.
-- Trabalhar com metodologias ágeis, contribuindo ativamente nas reuniões diárias e nas retrospectivas de sprint.
+- Develop, test, and maintain web applications using **JavaScript** and **Python**.
+- Collaborate with design and back-end teams to create efficient and functional user interfaces.
+- Write clean, modular, and scalable code, following best development practices.
+- Integrate **APIs** and external services, ensuring application performance and security.
+- Apply critical thinking to analyze and solve complex technical problems.
+- Participate in code reviews and contribute to the continuous improvement of development processes.
+- Stay updated with new technologies and industry trends, applying them practically to projects.
+- Work with agile methodologies, actively contributing to daily meetings and sprint retrospectives.
 
-## Requisitos
+## Requirements
 
-- Experiência sólida com JavaScript (incluindo frameworks como React, Angular, Vue.js, NestJS e Next.js).
-- Proficiência em Python, especialmente com frameworks como Django ou Flask.
-- Familiaridade com bancos de dados relacionais, com ênfase em PostgreSQL, e experiência com bancos de dados não-relacionais (MongoDB, Redis).
-- Experiência com controle de versão utilizando Git e plataformas como GitHub ou GitLab.
-- Conhecimento em desenvolvimento de APIs RESTful e/ou GraphQL.
-- Experiência em trabalhar com sistemas de CI/CD e práticas DevOps.
-- Compreensão sólida de arquitetura de microserviços e conteinerização com Docker e Kubernetes.
-- Experiência com infraestrutura em nuvem, especialmente AWS (Amazon Web Services); conhecimento em Google Cloud é um diferencial.
-- Capacidade de solucionar problemas complexos de forma eficiente e inovadora.
-- Pensamento crítico e habilidades de análise para tomar decisões informadas e inovadoras.
-- Fundamentos sólidos de Programação Orientada a Objetos (POO).
-- Conhecimento em design systems, como Material Design.
-- Formação em Ciências da Computação, Engenharia de Software ou áreas afins.
+- Solid experience with **JavaScript** (including frameworks like **React, Angular, Vue.js, NestJS**, and **Next.js**).
+- Proficiency in **Python**, especially with frameworks like **Django** or **Flask**.
+- Familiarity with relational databases, with an emphasis on **PostgreSQL**, and experience with non-relational databases (**MongoDB, Redis**).
+- Experience with version control using **Git** and platforms like **GitHub** or **GitLab**.
+- Knowledge in developing **RESTful** and/or **GraphQL** APIs.
+- Experience working with **CI/CD** systems and **DevOps** practices.
+- Strong understanding of microservices architecture and containerization with **Docker** and **Kubernetes**.
+- Experience with cloud infrastructure, especially **AWS (Amazon Web Services)**; knowledge in **Google Cloud** is a plus.
+- Ability to efficiently and innovatively solve complex problems.
+- Critical thinking and analytical skills to make informed and innovative decisions.
+- Strong fundamentals in **Object-Oriented Programming (OOP)**.
+- Knowledge of design systems, such as **Material Design**.
+- Degree in **Computer Science, Software Engineering**, or a related field.
 
-## Desejável
+## Preferred
 
-- Experiência com Java e frameworks como Spring.
-- Experiência com outras linguagens de programação, como TypeScript ou Kotlin.
-- Conhecimento em desenvolvimento mobile (React Native ou Flutter).
-- Experiência com ferramentas de testes automatizados, como Jest, Mocha, JUnit ou PyTest.
-- Experiência prática em implementação e gerenciamento de infraestruturas em Google Cloud.
-- Contribuições para projetos de código aberto ou participação ativa em comunidades de desenvolvedores.
+- Experience with **Java** and frameworks like **Spring**.
+- Experience with other programming languages such as **TypeScript** or **Kotlin**.
+- Knowledge in mobile development (**React Native** or **Flutter**).
+- Experience with automated testing tools, such as **Jest, Mocha, JUnit**, or **PyTest**.
+- Practical experience in implementing and managing infrastructures in **Google Cloud**.
+- Contributions to open-source projects or active participation in developer communities.
 
-## Benefícios
+## Benefits
 
-- Salário competitivo e pacote de benefícios atraente.
-- Oportunidade de trabalhar em projetos desafiadores e inovadores.
-- Ambiente de trabalho dinâmico e colaborativo, com possibilidades de crescimento e desenvolvimento profissional.
-- Flexibilidade de horário e possibilidade de trabalho remoto.
+- Competitive salary and attractive benefits package.
+- Opportunity to work on challenging and innovative projects.
+- Dynamic and collaborative work environment, with opportunities for growth and professional development.
+- Flexible hours and the possibility of remote work.
+
+## Next Steps
+
+1. Clone this repository.
+2. Solve one of the challenges located in "/challenges".
+3. Create a submodule with your solution inside "/solutions".
+4. Submit a pull request.
+5. Schedule the review at the following link: [Calendar](https://calendly.com/alejandro-tarafa-stattus4/30min?back=1&month=2024-08).
+
+## Good Luck!
+
+
+
