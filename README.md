@@ -1,6 +1,4 @@
-# Título da Vaga: Programador Full Stack
-
-## Descrição da Vaga
+# Vaga de Programador Full Stack
 
 Estamos à procura de um Programador Full Stack talentoso e altamente motivado para se juntar à nossa equipe. O candidato ideal terá sólida experiência em JavaScript e Python, e estará familiarizado com as tecnologias mais recentes relacionadas a essas linguagens. Também valorizamos conhecimento em cloud computing, especialmente em AWS e Google Cloud, e experiência em arquitetura de microserviços. Se você é apaixonado por desenvolver soluções inovadoras, possui pensamento crítico e gosta de trabalhar em um ambiente colaborativo, essa vaga é para você!
 
