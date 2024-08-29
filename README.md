@@ -21,7 +21,7 @@ We are looking for a talented and highly motivated **Full Stack Developer** to j
 - Experience with version control using **Git** and platforms like **GitHub** or **GitLab**.
 - Knowledge in developing **RESTful** and/or **GraphQL** APIs.
 - Experience working with **CI/CD** systems and **DevOps** practices.
-- Strong understanding of microservices architecture and containerization with **Docker** and **Kubernetes**.
+- Understanding of microservices architecture and containerization with **Docker** and **Kubernetes**.
 - Experience with cloud infrastructure, especially **AWS (Amazon Web Services)**; knowledge in **Google Cloud** is a plus.
 - Ability to efficiently and innovatively solve complex problems.
 - Critical thinking and analytical skills to make informed and innovative decisions.
@@ -33,7 +33,7 @@ We are looking for a talented and highly motivated **Full Stack Developer** to j
 
 - Experience with **Java** and frameworks like **Spring**.
 - Experience with other programming languages such as **TypeScript** or **Kotlin**.
-- Knowledge in mobile development (**React Native** or **Flutter**).
+- Knowledge in mobile development (**React Native**); knowledge in **Flutter** is a plus.
 - Experience with automated testing tools, such as **Jest, Mocha, JUnit**, or **PyTest**.
 - Practical experience in implementing and managing infrastructures in **Google Cloud**.
 - Contributions to open-source projects or active participation in developer communities.
@@ -43,17 +43,41 @@ We are looking for a talented and highly motivated **Full Stack Developer** to j
 - Competitive salary and attractive benefits package.
 - Opportunity to work on challenging and innovative projects.
 - Dynamic and collaborative work environment, with opportunities for growth and professional development.
-- Flexible hours and the possibility of remote work.
+- Possibility of remote work.
 
-## Next Steps
+# Recruitment Process
 
-1. Clone this repository.
-2. Solve one of the challenges located in "/challenges".
-3. Create a submodule with your solution inside "/solutions".
-4. Submit a pull request.
-5. Schedule the review at the following link: [Calendar](https://calendly.com/alejandro-tarafa-stattus4/30min?back=1&month=2024-08).
+## 1. Code Challenge(You are here!!!!!)
+
+- **Objective:** Showcase your technical skills by solving a code challenge.
+- **Action:**
+  - Clone our repository.
+  - Solve one of the challenges located in the `/challenges` folder.
+  - Submit your solution as a submodule inside the `/solutions` directory.
+- **Outcome:** Demonstrate your problem-solving abilities and proficiency with the requiered technologies.
+
+## 2. Solution Review
+
+- **Objective:** Discuss your approach and solution with our team.
+- **Action:**
+  - Schedule a review session using the provided [Calendar link](https://calendly.com/alejandro-tarafa-stattus4/30min?back=1&month=2024-08).
+  - Participate in a technical discussion where we’ll explore your solution in-depth.
+- **Outcome:** Gain insights into your coding practices, thought process, and ability to communicate technical concepts.
+
+## 3. Interview
+
+- **Objective:** Evaluate your fit with our team and culture.
+- **Action:**
+  - Attend an interview where we’ll know more about our company mission and objectives.
+  - Discuss your experience, motivations, and how you align with our values.
+- **Outcome:** Determine mutual compatibility and readiness to join our dynamic team.
+
+## 4. Feedback
+
+- **Objective:** Receive constructive feedback on your performance.
+- **Action:**
+  - After the interview, you will receive personalized feedback.
+- **Outcome:** Understand the next steps in the process or areas for improvement.
 
 ## Good Luck!
-
-
 
