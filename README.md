@@ -54,7 +54,7 @@ We are looking for a talented and highly motivated **Full Stack Developer** to j
   - Clone our repository.
   - Solve one of the challenges located in the `/challenges` folder.
   - Submit your solution as a submodule inside the `/solutions` directory.
-- **Outcome:** Demonstrate your problem-solving abilities and proficiency with the requiered technologies.
+- **Outcome:** Demonstrate your problem-solving abilities and proficiency with the required technologies.
 
 ## 2. Solution Review
 
