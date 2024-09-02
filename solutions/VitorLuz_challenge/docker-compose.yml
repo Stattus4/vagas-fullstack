@@ -1,0 +1,9 @@
+services:
+  # nome do meu servico
+  mars_rover_vitorluz:
+    # procura a imagem no diretorio atual . e executa
+    build: .
+    # monta o volume
+    volumes:
+      - .:/Stattus4_desafio_vitor
+    command: pytest -v
